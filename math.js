@@ -18,7 +18,7 @@ function isEven(n) {
 console.log(isEven(7))
 
 function isOdd(n) {
-    return n === Number.isInteger
+    return n === Number.isOdd
 }
 console.log(isOdd(7))
 
